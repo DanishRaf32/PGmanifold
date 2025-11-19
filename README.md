@@ -5,8 +5,8 @@
 
 This repository contains the code and materials to reproduce the results in the manuscript
 **"Nonlinear Model Order Reduction of Power Grid Networks using Quadratic Manifolds"**.  
-(Primary manuscript PDF included in this repository.)  [oai_citation:0‡My_journal_paper.pdf](sediment://file_000000004638720782c91225fb7477b5)
 
+![](manifold.jpg)
 ---
 
 ## Repository structure
